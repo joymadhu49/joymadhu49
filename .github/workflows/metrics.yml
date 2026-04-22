@@ -28,9 +28,6 @@ jobs:
           plugin_followup: yes
           plugin_topics: yes
           plugin_topics_mode: icons
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-
           # Counts ALL commits ever, including private
           repositories_affiliations: owner, collaborator, organization_member
           commits_authoring: ${{ secrets.METRICS_TOKEN_EMAIL }}
