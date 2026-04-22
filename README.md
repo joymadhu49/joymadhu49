@@ -64,15 +64,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats — Lifetime (Public + Private)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joymadhu49&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joymadhu49&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://raw.githubusercontent.com/joymadhu49/joymadhu49/main/github-metrics.svg" alt="Lifetime GitHub Metrics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joymadhu49&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joymadhu49&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joymadhu49&theme=tokyonight&hide_border=true&card_height=180" />
 </p>
 
 <p align="center">
