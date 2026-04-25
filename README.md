@@ -14,6 +14,14 @@
 
 ---
 
+## 📦 Lifetime Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joymadhu49/joymadhu49/main/github-metrics.svg" alt="Lifetime GitHub Metrics" />
+</p>
+
+---
+
 ## 🧠 About Me
 
 ```ts
@@ -170,14 +178,6 @@ const joy = {
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=joymadhu49&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
   </a>
-</p>
-
----
-
-## 📦 Lifetime Metrics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/joymadhu49/joymadhu49/main/github-metrics.svg" alt="Lifetime GitHub Metrics" />
 </p>
 
 ---
