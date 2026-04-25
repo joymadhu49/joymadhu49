@@ -9,8 +9,24 @@
 <p align="center">
   <a href="https://github.com/joymadhu49"><img src="https://img.shields.io/github/followers/joymadhu49?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0d1117" /></a>
   <img src="https://komarev.com/ghpvc/?username=joymadhu49&style=for-the-badge&color=58A6FF&labelColor=0d1117&label=PROFILE+VIEWS" />
-  <a href="https://github.com/joymadhu49?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-24%2B-58A6FF?style=for-the-badge&logo=github&labelColor=0d1117" /></a>
+  <a href="https://github.com/joymadhu49?tab=repositories"><img src="https://img.shields.io/github/user-repos/joymadhu49?label=Public+Repos&style=for-the-badge&color=58A6FF&labelColor=0d1117&logo=github" /></a>
+  <img src="https://img.shields.io/badge/Open%20to-Contract%20%E2%80%A2%20Freelance-22c55e?style=for-the-badge&labelColor=0d1117" />
 </p>
+
+<p align="center">
+  <a href="mailto:joy01979474126@gmail.com"><img src="https://img.shields.io/badge/Email-joy01979474126%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://github.com/joymadhu49"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
+</p>
+
+---
+
+## 💼 Hire Me
+
+> **Open to:** smart contract development · dApp engineering · trading bots & AI agents · token launches · Farcaster mini apps
+>
+> **Engagement:** part-time contract · hourly · per-project
+>
+> **Reach me:** [joy01979474126@gmail.com](mailto:joy01979474126@gmail.com) · [@joymadhu49](https://github.com/joymadhu49)
 
 ---
 
