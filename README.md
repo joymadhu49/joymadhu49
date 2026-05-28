@@ -47,5 +47,5 @@ Focused on DeFi infra, on-chain AI, and Farcaster mini apps.
 ### Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joymadhu49&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true&custom_title=Daily%20Contributions" alt="Activity graph" />
+  <img src="https://raw.githubusercontent.com/joymadhu49/joymadhu49/output/github-contribution-grid-snake-dark.svg" alt="Contribution grid snake" />
 </p>
