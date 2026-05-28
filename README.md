@@ -5,10 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/joymadhu49?tab=repositories">
-    <img src="https://img.shields.io/badge/Building-on--chain-58A6FF?style=flat-square&labelColor=0d1117" />
-  </a>
   <img src="https://img.shields.io/github/followers/joymadhu49?style=flat-square&color=58A6FF&labelColor=0d1117&label=followers" />
+  <img src="https://img.shields.io/github/user-repos/joymadhu49?style=flat-square&color=58A6FF&labelColor=0d1117&label=public%20repos" />
+  <img src="https://img.shields.io/badge/private%20repos-12%2B-58A6FF?style=flat-square&labelColor=0d1117" />
   <img src="https://komarev.com/ghpvc/?username=joymadhu49&style=flat-square&color=58A6FF&labelColor=0d1117&label=views" />
 </p>
 
@@ -21,7 +20,7 @@ Focused on DeFi infra, on-chain AI, and Farcaster mini apps.
 
 ### Stack
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -41,7 +40,11 @@ Focused on DeFi infra, on-chain AI, and Farcaster mini apps.
 
 ### Stats
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=joymadhu49&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joymadhu49&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6&hide=html,css,scss" />
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=joymadhu49&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=joymadhu49&theme=tokyonight&hide_border=true&background=0d1117&stroke=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joymadhu49&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8&hide=html,css,scss" />
 </p>
