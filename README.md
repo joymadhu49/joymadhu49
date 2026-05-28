@@ -43,3 +43,9 @@ Focused on DeFi infra, on-chain AI, and Farcaster mini apps.
 <p align="center">
   <img height="170" src="https://github-readme-streak-stats.demolab.com/?user=joymadhu49&theme=tokyonight&hide_border=true&background=0d1117&stroke=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </p>
+
+### Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joymadhu49&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true&custom_title=Daily%20Contributions" alt="Activity graph" />
+</p>
