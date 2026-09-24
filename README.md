@@ -1,58 +1,13 @@
-<a href="https://portfoliojoy-eth.xyz"><img src="assets/banner.png" alt="Joy Madhu, Web3 and DeFi engineer in Dhaka. Available for new work." width="100%" /></a>
+<a href="https://portfoliojoy-eth.xyz"><img src="assets/banner.png" alt="Joy Madhu, Web3 and DeFi engineer in Dhaka" width="100%" /></a>
 
 <p align="center">
   <a href="https://portfoliojoy-eth.xyz"><img src="https://img.shields.io/badge/Portfolio-portfoliojoy--eth.xyz-161616?style=flat-square&labelColor=FF4F12" alt="Portfolio" /></a>
-  <a href="mailto:madhujoym@outlook.com"><img src="https://img.shields.io/badge/Email-madhujoym%40outlook.com-161616?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
   <a href="https://x.com/zx_joy_"><img src="https://img.shields.io/badge/@zx__joy__-161616?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
-I build **DeFi protocols, privacy tech and AI agents** across EVM chains and Solana, plus **native iOS apps**. Three years deep in crypto, working from Dhaka (GMT+6) with teams anywhere. Everything below is live or open source, so you can check it yourself.
+Hi, I'm Joy. I'm from Dhaka, Bangladesh, and I've spent the last three years deep in crypto. I like building things that live onchain: DeFi apps, privacy tech (FHE, TEE, ZK) and AI agents, plus a few native iPhone apps on the App Store.
 
-<br />
-
-## Latest ship
-
-**[Stack Crush](https://stackcrush.xyz)** · Base mainnet · Sep 2026
-
-A match 3 game where every tile is a real Coinbase tokenized stock. Clear level 10 to open an onchain vault, then claim real shares with one tap and zero gas. Wins are verified by replaying moves on the server; payouts are priced by Chainlink.
-
-`Next.js` `TypeScript` `Solidity` `Coinbase CDP` `Chainlink` `Cloudflare Workers`
-
-<br />
-
-## Selected work
-
-| Project | What it does | Built with | Links |
-| :-- | :-- | :-- | :-- |
-| **Shadow Book** | Private limit order book on Solana that resists MEV; orders are matched inside Intel TDX | TypeScript · Solana · Intel TDX | [Live](https://shadow-book-bice.vercel.app) · [Source](https://github.com/joymadhu49/shadow-book) |
-| **FHE Market** | Confidential prediction markets; every position is an encrypted ciphertext | Zama FHEVM · Solidity | [Live](https://fhe-market-lpei.vercel.app) · [Source](https://github.com/joymadhu49/fhe-market) |
-| **SealQR** | Confidential payments by QR code and red packets under ERC-7984 | Zama FHEVM · Next.js | [Live](https://frontend-beryl-eta-53.vercel.app) · [Source](https://github.com/joymadhu49/sealqr) |
-| **PrivaPace** | Confidential transfers on Arc with zero knowledge proofs | Circom · Solidity | [Live](https://privapace.xyz) · [Source](https://github.com/joymadhu49/privapace-protocol) |
-| **My Multisender** | Batch payouts to hundreds of wallets in one transaction | Next.js · Solidity | [Live](https://my-multisender.vercel.app) · [Source](https://github.com/joymadhu49/my-multisender) |
-| **Arcbet** | Daily crypto prediction markets with USDC as gas | Next.js · Solidity | [Live](https://arcbet.vercel.app) · [Source](https://github.com/joymadhu49/arcbet) |
-| **Pharos Bridge** | Token gated LI.FI bridge into Pharos Network | TypeScript · LI.FI | [Live](https://pharos-bridge.vercel.app) · [Source](https://github.com/joymadhu49/pharos-bridge) |
-
-<br />
-
-## On the App Store
-
-| App | What it does | |
-| :-- | :-- | :-- |
-| **Clara AI** | Voice first AI companion with live captions, five voices and on device memory | [App Store](https://apps.apple.com/us/app/clara-ai-voice-companion/id6805101406) |
-| **Prismara** | 300+ AI models in one fast native iPhone app | [App Store](https://apps.apple.com/app/prismara/id6783428395) |
-| **Sayboard** | A voice keyboard that types clean, punctuated text in any app | [App Store](https://apps.apple.com/app/sayboard-voice-keyboard/id6795650236) |
-
-<br />
-
-## Open source tools
-
-- **[Open Higgsfield](https://github.com/joymadhu49/open-higgsfield)**: self hosted AI image and video studio on your own OpenRouter key
-- **[PayBox Hermes](https://github.com/joymadhu49/paybox-hermes-agent)**: a wallet for AI agents, MCP tooling with headless transaction signing
-- **[Agent Pay FHE](https://github.com/joymadhu49/agent-pay-fhe)**: confidential AI agent payments on Zama FHEVM
-- **[Otterly Wallet](https://github.com/joymadhu49/otterly-wallet)**: self custodial Chrome extension wallet with USDC native gas
-- **[Clipline](https://github.com/joymadhu49/Clipline)** and **[Polychrome](https://github.com/joymadhu49/Polychrome)**: native macOS menu bar apps for clipboard history and Chrome profiles
-- **[Snapline for Linux](https://github.com/joymadhu49/snapline-linux)**: cloud free screen capture with recording, GIF and OCR
-- **[Clawd Agent](https://github.com/joymadhu49/clawd-agent)**: lightweight self hosted AI agent with Telegram and web UI
+Most of what I make is public here. The full picture lives on my **[portfolio](https://portfoliojoy-eth.xyz)**.
 
 <br />
 
@@ -74,11 +29,4 @@ A match 3 game where every tile is a real Coinbase tokenized stock. Clear level 
 <p align="center">
   <img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joymadhu49&disable_animations=true&layout=compact&langs_count=8&hide=html,css,scss&bg_color=E4E4E0&title_color=161616&icon_color=FF4F12&text_color=4F4F4A&hide_border=true&border_radius=14" alt="Top languages" />
   <img height="175" src="https://streak-stats.demolab.com/?user=joymadhu49&disable_animations=true&background=E4E4E0&ring=FF4F12&fire=FF4F12&currStreakNum=161616&sideNums=161616&currStreakLabel=161616&sideLabels=4F4F4A&dates=66665F&stroke=C3C3BC&hide_border=true&border_radius=14" alt="Contribution streak" />
-</p>
-
-<br />
-
-<p align="center">
-  <b>Have something to build onchain?</b><br />
-  <a href="mailto:madhujoym@outlook.com">madhujoym@outlook.com</a> · <a href="https://portfoliojoy-eth.xyz">portfoliojoy-eth.xyz</a> · <a href="https://x.com/zx_joy_">@zx_joy_</a>
 </p>
