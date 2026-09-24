@@ -72,11 +72,11 @@ A match 3 game where every tile is a real Coinbase tokenized stock. Clear level 
 ## Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joymadhu49&show_icons=true&count_private=true&include_all_commits=true&bg_color=E4E4E0&title_color=161616&icon_color=FF4F12&text_color=4F4F4A&hide_border=true&border_radius=14" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joymadhu49&layout=compact&langs_count=8&hide=html,css,scss&bg_color=E4E4E0&title_color=161616&icon_color=FF4F12&text_color=4F4F4A&hide_border=true&border_radius=14" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joymadhu49&disable_animations=true&show_icons=true&count_private=true&include_all_commits=true&bg_color=E4E4E0&title_color=161616&icon_color=FF4F12&text_color=4F4F4A&hide_border=true&border_radius=14" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joymadhu49&disable_animations=true&layout=compact&langs_count=8&hide=html,css,scss&bg_color=E4E4E0&title_color=161616&icon_color=FF4F12&text_color=4F4F4A&hide_border=true&border_radius=14" alt="Top languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=joymadhu49&background=E4E4E0&ring=FF4F12&fire=FF4F12&currStreakNum=161616&sideNums=161616&currStreakLabel=161616&sideLabels=4F4F4A&dates=66665F&stroke=C3C3BC&hide_border=true&border_radius=14" alt="Contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=joymadhu49&disable_animations=true&background=E4E4E0&ring=FF4F12&fire=FF4F12&currStreakNum=161616&sideNums=161616&currStreakLabel=161616&sideLabels=4F4F4A&dates=66665F&stroke=C3C3BC&hide_border=true&border_radius=14" alt="Contribution streak" />
 </p>
 
 <br />
