@@ -1,4 +1,4 @@
-<a href="https://portfoliojoy-eth.xyz"><img src="assets/banner.png" alt="Joy Madhu, Web3 and DeFi engineer in Dhaka" width="100%" /></a>
+<a href="https://portfoliojoy-eth.xyz"><img src="assets/profile-banner.png" alt="Joy Madhu, Web3 and DeFi engineer in Dhaka" width="100%" /></a>
 
 <p align="center">
   <a href="https://portfoliojoy-eth.xyz"><img src="https://img.shields.io/badge/Portfolio-portfoliojoy--eth.xyz-161616?style=flat-square&labelColor=FF4F12" alt="Portfolio" /></a>
